@@ -1,5 +1,3 @@
-Ciao! Il tuo file `readme.md` sembra essere abbastanza chiaro e dettagliato. Tuttavia, ecco una versione migliorata con alcune correzioni e suggerimenti:
-
 ```markdown
 # MySQL-Search-All-Tables
 
