@@ -6,7 +6,7 @@
 
 The first step in performing a search for a value across the entire database is to retrieve the columns present in tables with the data type to be found.
 
-1. Copy the query based on the data type to be found (String - Numeric - Blob).
+1. Copy the query based on the data type to be found (String - Numeric - Blob) and change the value to search for (LIKE '%someText%').
 2. Open your MySQL client or working environment and paste the query.
 3. Execute the chosen query.
 4. Analyze the result. You will obtain a series of concatenated SELECT statements.
@@ -44,7 +44,7 @@ This could happen due to the MariaDB version. To circumvent this, run the Python
 
 La prima operazione da eseguire per effettuare una ricerca di un valore in tutto il database è recuperare le colonne presenti nelle tabelle con il tipo di dato da cercare.
 
-1. Copia la query in base al tipo di dato da trovare (Stringa - Numerico - Blob).
+1. Copia la query in base al tipo di dato da trovare (Stringa - Numerico - Blob) e cambia il valore da cercare (- `LIKE \'%someText%\'`).
 2. Apri il tuo client MySQL o l'ambiente di lavoro e incolla la query.
 3. Esegui la query da te scelta.
 4. Analizza il risultato. Otterrai una serie di istruzioni SELECT concatenate.
