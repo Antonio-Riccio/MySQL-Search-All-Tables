@@ -1,4 +1,3 @@
-```markdown
 # MySQL-Search-All-Tables
 
 ## English
@@ -72,6 +71,3 @@ Ciò potrebbe accadere a causa della versione di MariaDB. Per aggirare ciò, bas
     - `query_result.txt` -> che contiene la query eseguita
     - `query_results.txt` -> che contiene il risultato della query
 2. Nel caso occorra, puoi modificare il codice in modo tale da inviare/salvare i dati della query/la query in un file o inviarlo per email o qualunque altra operazione, basterà modificare il codice Python.
-```
-
-Questa versione contiene principalmente correzioni di formattazione e miglioramenti nella chiarezza delle istruzioni. Spero che ti sia utile!
